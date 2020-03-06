@@ -1,13 +1,13 @@
-# Maintainer: Yu, Li-Yu <https://github.com/afg984>
+# Maintainer: Yu, Li-Yu <https://github.com/afq984>
 
 pkgname=minos-git
 pkgver=0.0.10.b0bf9e6
 pkgrel=1
 pkgdesc='daemon and NSS module to provide synchronized user/group/shadow databases'
-url='https://github.com/afg984/minos'
+url='https://github.com/afq984/minos'
 arch=('x86_64')
 license=('BSD')
-source=('git+https://github.com/afg984/minos')
+source=('git+https://github.com/afq984/minos')
 sha256sums=('SKIP')
 conflits=('minos')
 provides=('minos')
